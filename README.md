@@ -1,4 +1,4 @@
 # hello-world
 Hello world tutorial
 
-Just creatint some changes.
+Just creating some changes.
